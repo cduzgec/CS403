@@ -1,3 +1,2 @@
 #  Distributed Systems
-CS 403 Distributed Systems - Sabancı University spring 2020 - Projects
-
+CS 403 Distributed Systems - Sabancı University Spring 2020
